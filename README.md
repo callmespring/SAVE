@@ -1,6 +1,6 @@
 # Statistical Inference of the Value Function for Reinforcement Learning in Infinite Horizon Settings
 
-This repository contains the implementation for the paper "Statistical Inference of the Value Function for Reinforcement Learning in Infinite Horizon Settings" in Python.
+This repository contains the implementation for the paper "Statistical Inference of the Value Function for Reinforcement Learning in Infinite Horizon Settings" (JRSSB) in Python.
 
 ## Summary of the paper
 
